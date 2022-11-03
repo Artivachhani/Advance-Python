@@ -1,4 +1,4 @@
-# BIZZ-INTERN
+# More Python
 
 problem1-calculator : It takes maths formula as input from user, and give solution of that formula
                       Limitation : Nested Bracket does not support by function..
